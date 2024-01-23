@@ -1,3 +1,4 @@
 Hi Friends!
 This is a sample text file!
+This is my new added file!
 Thanks
